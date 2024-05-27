@@ -1,3 +1,4 @@
+# Mai Nguyen Hoang - ITITIU21208
 def evaluate_polynomial(coefficients, x):
     result = 0
     for coefficient in coefficients:
